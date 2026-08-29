@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "name": "Replace Watercooler with Wobber",
+        "version": "0.0.253",
+        "description": "It's replace Watercooler with Wobber",
+        "ai": "no",
+        "author": [
+            "Uniti"
+        ],
+        "url": "https://gamebanana.com/mods/edit/633023",
+        "color": {
+            "r": 0,
+            "g": 205,
+            "b": 255
+        },
+        "tags": [
+            "other"
+        ],
+        "game": "toby.deltarune",
+        "packageID": "und.und.Uniti"
+    },
+    "deltaruneTargetVersion": "0.0.253",
+    "neededFiles": [
+        {
+            "file": "./chapter3_windows/data.win",
+            "checksum": "690eed53311675b1829829599e7c73da8631810fbc8682449692bbcf6c5c4f03"
+        }
+    ],
+    "exporter": {
+        "tool": "MiscTools"
+    }
+}

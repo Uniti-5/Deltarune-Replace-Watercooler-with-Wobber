@@ -1,0 +1,21 @@
+{
+  "config_version": "1.0.0",
+  "metadata": {
+    "name": "Replace Watercooler with Wobber",
+    "version": "1.0.0",
+    "author": "Uniti",
+    "description": "It's replace Watercooler with Wobber",
+    "homepage": "https://gamebanana.com/mods/edit/633023",
+    "icon": "icon.png",
+    "game": "deltarune",
+    "game_version": "0.0.253",
+    "tags": [
+      "other"
+    ]
+  },
+  "files": {
+    "deltarune_3": {
+      "data_file_path": "Wobbercooler replace Watercooler (New Version Unfinished).xdelta"
+    }
+  }
+}
